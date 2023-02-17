@@ -1,0 +1,34 @@
+header {
+    text-align: center;
+    font-family: "Fira Sans",sans;
+    padding-top: 20px;
+    display: flexbox;
+}
+main {
+	max-width: 850px;
+	margin: auto;
+}
+body{
+    background: #383636;
+    color:rgb(158, 194, 235);
+}
+p{
+    color:#fff;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+#terms{
+    text-align: center;
+
+}
+a{
+    color: #9ec2eb; 
+    text-decoration: none;
+  }
